@@ -1,0 +1,5 @@
+frmMP3 = 16, 12, 729, 387, C, 47, 19, 596, 603, C
+clsGetFiles = -29, 61, 633, 501, C
+modFolderActions = 69, 74, 742, 494, Z
+frmEditTags = 64, 125, 731, 516, C, -175, 49, 476, 463, C
+clsMousePointer = 0, 0, 0, 0, C
